@@ -1,0 +1,17 @@
+.dados {
+    max-width: 480px;
+    margin: auto;
+    padding: 30px;
+    background: #7ed6df;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #dff9fb;
+    border-radius: 5px;
+  }
+  
